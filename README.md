@@ -15,9 +15,9 @@
   </div>
   
 ### `SI TIENES DUDAS CONTACTA A ESTOS NÚMEROS`
-<a href="http://wa.me/50241370839" target="blank"><img src="https://img.shields.io/badge/JhanX-Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/50241370839" target="blank"><img src="https://img.shields.io/badge/JhanX-Bot y Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/50241370839" target="blank"><img src="https://img.shields.io/badge/ℭ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50241370839" target="blank"><img src="https://img.shields.io/badge/ℭ²-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/573244488043" target="blank"><img src="https://img.shields.io/badge/Criwilop-Bot y Colaborador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
 ### `HOSTS PARA INSTALAR EL BOT`
