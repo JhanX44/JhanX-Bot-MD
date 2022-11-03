@@ -7,7 +7,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/ALBERTO9883"><img title="Autor" src="https://img.shields.io/badge/JhanX-Bot-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/JhanX44"><img title="Autor" src="https://img.shields.io/badge/JhanX-Bot-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 
