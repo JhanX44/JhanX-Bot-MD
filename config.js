@@ -8,7 +8,7 @@ global.owner = [
   ['50241370839', 'ℭ', true],
   ['50241370839', 'ℭ', true],
   ['50241370839', 'ℭ', true],
-  ['50241370839', 'ℭ', true]
+  ['573244488043', 'Criwilop-Bot', true]
 ]
 global.mods = [] 
 global.prems = [] 
