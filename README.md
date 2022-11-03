@@ -39,8 +39,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/ALBERTO9883/NyanCatBot-MD
-> cd NyanCatBot-MD
+> git clone https://github.com/JhanX44-JhanX-Bot-MD
+> cd JhanX-Bot-MD
 > npm i
 > npm update
 > yarn install
